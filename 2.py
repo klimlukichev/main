@@ -1,2 +1,3 @@
-name=input("Введите ваше имя: ")
-print("Привет, ",  name.capitalize(), "!")
+a=2
+b=1
+print(a + b)
